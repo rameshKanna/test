@@ -1,0 +1,25 @@
+#catChoice {
+  border-radius:100em;
+}
+article{
+  font-family:arial;
+}
+figcaption{
+  font-style:italic;
+  font-size:80%;
+  padding-left:5em;
+}
+#colorChoice{
+  width:100px;
+  height:50px;
+  display:block;
+  margin: 2px 0 5px 0;
+}
+.choice {
+  display:inline;
+  float:left;
+  margin-top: 5em;
+}
+figure{
+  margin: 0 0 0 10em;
+}
